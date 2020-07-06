@@ -2,7 +2,6 @@
 
 echo "Que dia é hoje?"
 
-echo('</br>')
 $diaDaSemana = date('w')
 
 switch ($diaDaSemana) {
