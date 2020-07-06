@@ -1,8 +1,8 @@
 <?php
 
-echo "Que dia é hoje?"
+echo "Que dia é hoje?";
 
-$diaDaSemana = date('w')
+$diaDaSemana = date('w');
 
 switch ($diaDaSemana) {
 
